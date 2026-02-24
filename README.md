@@ -1,7 +1,7 @@
 Hi!! My name is Rafael Sanguini
 ========================================================================================================================================
 
-I'm a Computer Engineering Estudent and Software Developer
+I'm a Computer Engineering Student and Software Developer
 ----------------------------------------------------
 
 Web developer for 3 years, I started my journey with C and truly delved into frontend development. Specializing in creating modern, responsive, and interactive interfaces with HTML, CSS, and JavaScript. Combining solid programming fundamentals with intuitive design. I also have excellent backend skills.
